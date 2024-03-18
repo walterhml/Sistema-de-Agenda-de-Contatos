@@ -7,11 +7,11 @@ Este projeto consiste em uma aplicação web simples para gerenciar uma lista de
 
 ## Estrutura de Arquivos
 
-agenda-de-contatos/
-├── index.php
-├── contatos.json
-├── styles.css
-└── script.js
+agenda-de-contatos/ <br>
+├── index.php <br>
+├── contatos.json <br>
+├── styles.css <br>
+└── script.js <br>
 
 
 - **index.php**: Página principal da aplicação que exibe a lista de contatos e fornece opções para adicionar, editar e excluir contatos.
