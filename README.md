@@ -1,5 +1,5 @@
 # Documentação Técnica: Agenda de Contatos
-[Agenda de Contatos](img.jpg)
+[Agenda de Contatos](img.png)
 
 ## Visão Geral
 
